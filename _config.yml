@@ -1,0 +1,4 @@
+collections:
+  dictionary:
+    output: true
+    permalink: /dictionary/:name/
