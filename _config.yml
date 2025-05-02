@@ -2,4 +2,4 @@ collections:
   dictionary:
     output: true
     permalink: /dictionary/:name/
-# force rebuild
+# force rebuild again
